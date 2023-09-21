@@ -4,7 +4,7 @@
 ## 사용언어 및 툴
 python, vscode
 
-## install in terminal
+## install
 셀레니움 : ﻿pip install selenium <br>
 크롬드라이버 : https://sites.google.com/a/chromium.org/chromedriver/downloads <br>
 requests : pip install requests <br>
